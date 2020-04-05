@@ -5,7 +5,7 @@
   "env": {
      "UUID": {
        "description": "VMess用户的主ID, uuidgenerator.net",
-       "value": "65f11be5-ac71-4f0c-874b-d93c610c66ef"
+       "value": "9f93dd8a-7b8a-4c28-8c3e-c4577d55bc1f"
      },
      "CONFIG_JSON1": {
             "description": "v2ray配置，默认即可",
@@ -21,7 +21,7 @@
         }
      
   },
-  "website": "https://github.com/onplus/v2hero",
-  "repository": "https://github.com/onplus/v2hero",
+  "website": "https://github.com/haojianxun/v2hero",
+  "repository": "https://github.com/haojianxun/v2hero",
   "stack": "container"
  }
